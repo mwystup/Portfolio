@@ -2,11 +2,11 @@
 
 ## About me
 
-With passion and commitment, I am developing my career in software testing, combining my experience in retail with growing technical skills. Working as a salesperson for several years allowed me to improve my communication, time management, and problem-solving skills.
+I am a QA Engineer with experience in manual and automated testing, specializing in Playwright. I develop and maintain automated test scripts, ensuring their stability and effectiveness. Alongside automation, I conduct manual testing to detect issues early and enhance test coverage.
 
-Currently, I focus on software testing, including test automation, gaining knowledge and practical experience in identifying and reporting bugs and creating effective tests. I am determined to continuously improve my skills and deliver high-quality results in every project.
+With passion and commitment, I am continuously developing my career in software testing, combining my growing technical skills with a strong focus on quality and efficiency. My previous background in the retail industry has helped me build strong communication skills, problem-solving, and time management skills, which I now apply to ensure seamless collaboration and effective testing processes.
 
-My key traits are striving for precision, responsibility, and determination, which help me achieve my goals. I am open to new challenges that allow me to develop my testing skills, especially in automation.
+I am committed to refining test processes, optimizing test suites, and working closely with development teams to improve software reliability and efficiency. I am always open to new challenges that allow me to expand my test automation expertise and contribute to high-quality software delivery.
 
 ## Experience
 
