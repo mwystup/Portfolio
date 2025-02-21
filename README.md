@@ -31,6 +31,14 @@ I am committed to refining test processes, optimizing test suites, and working c
 
 ## Projects
 
+:white_check_mark: <b>[Daily Challenge Hub](https://github.com/mwystup/Daily_Challenge_Hub)</b>
+
+I created simple automated tests for the Daily Challenge Hub website using Playwright. I built this website specifically for these tests. I used Playwright Inspector (debugger) and Playwright UI Mode.
+
+screenshots of automated tests on Google Drive -> [here](https://drive.google.com/drive/folders/1sF15h14FHi5rGmTyuoLfKhBrkHLqovJh?usp=sharing)
+
+![Daily Challenge Hub sample](https://github.com/mwystup/Daily_Challenge_Hub/blob/images/playwright_inspector.png)
+______________
 :white_check_mark: <b>[Trello REST API](https://github.com/Caounee/Trello_REST_API)</b>
 
 By testing Trello API, we can check how the interaction with the Trello application works. I conducted these tests based on <i>[Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/)</i>. I grouped the tests into several sets: <i> •  board •  list •  card •  checklist •  checkitem •  delete. </i>
@@ -41,6 +49,8 @@ By testing Trello API, we can check how the interaction with the Trello applicat
 
 test screenshots on Google Drive -> [here](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
 
+![Trello REST API sample](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/1.%20Create%20a%20Board.jpg)
+
 :white_check_mark: <b>[skleptest.pl](https://github.com/Caounee/skleptest)</b></a>
 
 <p>My tests of a sample website. I grouped the tests into several sets: <i> • homepage • menu • shopping cart and ordering process • user account • product sorting • product pages • search. </i> I found a lot of bugs which I included in my portfolio.
@@ -50,6 +60,8 @@ test screenshots on Google Drive -> [here](https://drive.google.com/drive/folder
 </p>
 
 screenshots of bug reports on Google Drive -> [here](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
+
+![skleptest sample](https://github.com/mwystup/Portfolio/blob/images/SK-6.1.jpg)
 
 ## Courses
 
