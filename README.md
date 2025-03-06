@@ -1,6 +1,6 @@
 <p align="center"><img src="https://img.freepik.com/darmowe-zdjecie/kobieta-korzystajaca-z-zestawu-vr_53876-129655.jpg?w=1380&t=st=1682616037~exp=1682616637~hmac=d6108d51d01da8dbc39f1d579057cdcb722f505bd8a72e5f7a63697550b7a518" alt="Obraz autorstwa storyset na Freepik" width="100%"><a href="https://pl.freepik.com/darmowe-zdjecie/kobieta-korzystajaca-z-zestawu-vr_17848512.htm#query=Internet&position=9&from_view=search&track=robertav1_2_sidr" target="_blank"><i>Image by rawpixel.com on Freepik</i></a></p>
 
-## About me
+## ✨ About me
 
 I am a QA Engineer with experience in manual and automated testing, specializing in Playwright. I develop and maintain automated test scripts, ensuring their stability and effectiveness. Alongside automation, I conduct manual testing to detect issues early and enhance test coverage.
 
@@ -8,7 +8,7 @@ With passion and commitment, I am continuously developing my career in software 
 
 I am committed to refining test processes, optimizing test suites, and working closely with development teams to improve software reliability and efficiency. I am always open to new challenges that allow me to expand my test automation expertise and contribute to high-quality software delivery.
 
-## Experience
+## ✨ Experience
 
 :white_check_mark: <b>Awumba Solutions, LLC -</b> <i>QA Engineer</i>
 
@@ -29,7 +29,7 @@ I am committed to refining test processes, optimizing test suites, and working c
 * effective teamwork and communication skills with other project members
 * knowledge of the HTTP/HTTPS protocol and the most common error codes
 
-## Projects
+## ✨ Projects
 
 :white_check_mark: <b>[Daily Challenge Hub](https://github.com/mwystup/Daily_Challenge_Hub)</b>
 
@@ -64,7 +64,7 @@ screenshots of bug reports on Google Drive -> [here](https://drive.google.com/dr
 
 ![skleptest sample](https://github.com/mwystup/Portfolio/blob/images/SK-6.1.jpg)
 
-## Courses
+## ✨ Courses
 
 :white_check_mark: <b>uTest Academy</b> - <i>uTest</i>
  <p><i>present</i></p>
@@ -81,7 +81,7 @@ screenshots of bug reports on Google Drive -> [here](https://drive.google.com/dr
  
 *  I learned basic SQL queries and their application.
 
-## Tools
+## ✨ Tools
 
 * ✅ Jira
 * ✅ Confluence
@@ -103,7 +103,7 @@ screenshots of bug reports on Google Drive -> [here](https://drive.google.com/dr
 others:
 * ✅ Affinity Photo, CorelDRAW, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition - <i>basics</i>
 
-## Soft skills
+## ✨ Soft skills
 
 * ✅ concentration
 * ✅ communication
@@ -112,17 +112,17 @@ others:
 * ✅ commitment
 * ✅ teamwork
 
-## Languages
+## ✨ Languages
 
 * ✅ Polish - <i>native</i>
 * ✅ English - <i>B1</i>
 * ✅ Spanish - <i>A1</i>
 
-## Books about testing
+## ✨ Books about testing
 
 * Zawód tester. Od decyzji do zdobycia doświadczenia - Radosław Smilgin
 
-## Recommended blogs about testing
+## ✨ Recommended blogs about testing
 
 * [Przystępny słownik pojęć Agile](https://sii.pl/blog/przystepny-slownik-pojec-agile/?category=zarzadzanie-projektami&tag=agile,dictionary,scrum)
 * [testerzy.pl](http://testerzy.pl)
