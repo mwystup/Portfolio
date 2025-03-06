@@ -10,7 +10,7 @@ I am committed to refining test processes, optimizing test suites, and working c
 
 ## Experience
 
-:white_check_mark: <b>Awumba Solutions, LLC -</b> <i>QA Intern</i>
+:white_check_mark: <b>Awumba Solutions, LLC -</b> <i>QA Engineer</i>
 
 <i>06/2024 – present</i>
 
