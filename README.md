@@ -50,6 +50,7 @@ By testing Trello API, we can check how the interaction with the Trello applicat
 test screenshots on Google Drive -> [here](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
 
 ![Trello REST API sample](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/1.%20Create%20a%20Board.jpg)
+______________
 
 :white_check_mark: <b>[skleptest.pl](https://github.com/Caounee/skleptest)</b></a>
 
