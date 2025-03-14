@@ -91,6 +91,7 @@ screenshots of bug reports on Google Drive -> [here](https://drive.google.com/dr
 * ✅ SQL
 * ✅ DevTools
 * ✅ Playwright
+* ✅ Typescript
 * ✅ REST API
 * ✅ Postman
 * ✅ JSON, XML
