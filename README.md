@@ -2,7 +2,7 @@
 
 ## ✨ About me
 
-I am a QA Engineer with experience in manual and automated testing, specializing in Playwright. I develop and maintain automated test scripts, ensuring their stability and effectiveness. Alongside automation, I conduct manual testing to detect issues early and enhance test coverage. I am learning TypeScript.
+I am a QA Engineer with experience in manual and automated testing, focusing on Playwright. I develop and maintain automated test scripts, ensuring their stability and effectiveness. Alongside automation, I conduct manual testing to detect issues early and enhance test coverage. I am learning TypeScript.
 
 With passion and commitment, I am continuously developing my career in software testing, combining my growing technical skills with a strong focus on quality and efficiency. My previous background in the retail industry has helped me build strong communication skills, problem-solving, and time management skills, which I now apply to ensure seamless collaboration and effective testing processes.
 
