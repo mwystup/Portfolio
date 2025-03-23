@@ -83,21 +83,21 @@ screenshots of bug reports on Google Drive -> [here](https://drive.google.com/dr
 
 ## ✨ Tools
 
+* ✅ Azure DevOps
 * ✅ Jira
 * ✅ Confluence
-* ✅ Azure DevOps
 * ✅ TestRail, Zephyr
-* ✅ GIT, GitHub
-* ✅ SQL
 * ✅ DevTools
 * ✅ Playwright
-* ✅ Typescript
 * ✅ REST API
 * ✅ Postman
-* ✅ JSON, XML
-* ✅ HTML, CSS, JavaScript
-* ✅ Visual Studio Code, Web Storm
+* ✅ SQL
 * ✅ Figma
+* ✅ GIT, GitHub
+* ✅ Docker
+* ✅ JSON, XML
+* ✅ Typescript, HTML, CSS
+* ✅ Visual Studio Code, Web Storm
 * ✅ Trello
 * ✅ Microsoft Teams, Microsoft Office
 
