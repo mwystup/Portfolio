@@ -2,7 +2,7 @@
 
 ## ✨ About me
 
-I am a QA Engineer with experience in manual and automated testing, focusing on Playwright. I develop and maintain automated test scripts, ensuring their stability and effectiveness. Alongside automation, I conduct manual testing to detect issues early and enhance test coverage. I am learning TypeScript.
+I am a Quality Assurant Consultant with experience in manual and automated testing, focusing on Playwright. I develop and maintain automated test scripts, ensuring their stability and effectiveness. Alongside automation, I conduct manual testing to detect issues early and enhance test coverage. I am learning TypeScript.
 
 With passion and commitment, I am continuously developing my career in software testing, combining my growing technical skills with a strong focus on quality and efficiency. My previous background in the retail industry has helped me build strong communication skills, problem-solving, and time management skills, which I now apply to ensure seamless collaboration and effective testing processes.
 
@@ -10,7 +10,7 @@ I am committed to refining test processes, optimizing test suites, and working c
 
 ## ✨ Experience
 
-:white_check_mark: <b>Awumba Solutions, LLC -</b> <i>QA Engineer</i>
+:white_check_mark: <b>Awumba Solutions, LLC -</b> <i>Quality Assurant Consultant</i>
 
 <i>06/2024 – present</i>
 
