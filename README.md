@@ -48,4 +48,4 @@ Playwright · TypeScript · Git · Docker · Jira · Azure DevOps · DevTools
 ## Languages
 
 **Polish** — Native  
-**English** — A2/B1
+**English** — B1
