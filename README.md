@@ -12,7 +12,7 @@ In my current role, I also use AI-assisted workflows to support test design, deb
 ### Awumba Solutions, LLC — Quality Assurance Consultant
 *Jun 2024 – Present*
 
-- Perform manual and automated testing of web applications across 8 user roles with different permissions and workflows.
+- Perform manual and automated testing of web applications across 7 user roles with different permissions and workflows.
 - Design and execute functional, exploratory, regression, and role-based tests.
 - Develop and maintain automated E2E/UI tests using Playwright and TypeScript.
 - Apply Page Object Model (POM) and troubleshoot flaky tests to improve test maintainability and reliability.
